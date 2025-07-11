@@ -1,4 +1,4 @@
 # Image-Resizer
 Uploading - Resizing - Downloading any Image.
 
-Direct Link - https://vedant-manna.github.io/Image-Resizer/
+<div>Direct Link - <a src = "https://vedant-manna.github.io/Image-Resizer/" target="_blank"></a><div>
